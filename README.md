@@ -13,7 +13,7 @@
 </h3>
 
 <p align="center">
-  <a href="YOUR_STREAMLIT_URL">
+  <a href="https://aistudentperformanceanalytics-rxj9rhuavw6ykenw8aszqh.streamlit.app/">
     <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Try%20ScholarIQ-00C853?style=for-the-badge" />
   </a>
   <a href="YOUR_GITHUB_URL">
@@ -25,7 +25,7 @@
 
 ## 🚀 Live Demo
 
-### 👉 [Launch ScholarIQ](YOUR_STREAMLIT_URL)
+### 👉 [Launch ScholarIQ](https://aistudentperformanceanalytics-rxj9rhuavw6ykenw8aszqh.streamlit.app/)
 
 Experience the complete prediction workflow directly in the browser.
 
