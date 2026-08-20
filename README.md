@@ -1,4 +1,4 @@
-# 🎓 ScholarIQ — Student Performance Prediction System
+#  ScholarIQ — Student Performance Prediction System
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -14,16 +14,16 @@
 
 <p align="center">
   <a href="https://aistudentperformanceanalytics-rxj9rhuavw6ykenw8aszqh.streamlit.app/">
-    <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Try%20ScholarIQ-00C853?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/%20LIVE%20DEMO-Try%20ScholarIQ-00C853?style=for-the-badge" />
   </a>
   <a href="https://github.com/Shaik-pardi-11">
-    <img src="https://img.shields.io/badge/⭐%20STAR%20PROJECT-GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/%20STAR%20PROJECT-GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 ### 👉 [Launch ScholarIQ](https://aistudentperformanceanalytics-rxj9rhuavw6ykenw8aszqh.streamlit.app/)
 
@@ -33,7 +33,7 @@ Experience the complete prediction workflow directly in the browser.
 
 ---
 
-# 🧠 What is ScholarIQ?
+#  What is ScholarIQ?
 
 **ScholarIQ** is a machine-learning-based student performance prediction system designed to estimate a student's final academic score using important academic and behavioral indicators.
 
@@ -55,26 +55,26 @@ Personalized Recommendations
 
 ---
 
-# ✨ Features
+#  Features
 
 | Feature                  | Description                                         |
 | ------------------------ | ---------------------------------------------------- |
-| 👤 Student Profile       | Enter student information and academic details      |
-| 📚 Academic Analysis     | Analyze assignments, internal marks and study hours  |
-| 📅 Attendance Analysis   | Calculate and visualize attendance percentage        |
-| 🤖 ML Prediction         | Predict final academic score                         |
-| 🎯 Grade Prediction      | Convert predicted score into academic grade          |
-| 📊 Performance Breakdown | Visualize the contribution of important factors      |
-| 💡 Recommendations       | Generate improvement suggestions                     |
-| 📥 Report Generation     | Download the student's prediction report              |
-| ⚡ Live Preview           | Dashboard updates instantly as values change          |
-| 🎨 Modern UI             | Dark, responsive academic intelligence dashboard      |
+|  Student Profile       | Enter student information and academic details      |
+|  Academic Analysis     | Analyze assignments, internal marks and study hours  |
+|  Attendance Analysis   | Calculate and visualize attendance percentage        |
+|  ML Prediction         | Predict final academic score                         |
+|  Grade Prediction      | Convert predicted score into academic grade          |
+|  Performance Breakdown | Visualize the contribution of important factors      |
+|  Recommendations       | Generate improvement suggestions                     |
+|  Report Generation     | Download the student's prediction report              |
+|  Live Preview           | Dashboard updates instantly as values change          |
+|  Modern UI             | Dark, responsive academic intelligence dashboard      |
 
 ---
 
-# 🖥️ Application Screens
+#  Application Screens
 
-## 1️⃣ Student Prediction Dashboard
+## 1️ Student Prediction Dashboard
 
 The first screen allows users to enter the student's profile and academic information.
 
@@ -116,7 +116,7 @@ to generate the prediction.
 
 ---
 
-# 📊 2️⃣ Prediction Results Dashboard
+#  2️ Prediction Results Dashboard
 
 After prediction, ScholarIQ presents the results through an interactive analytics dashboard.
 
@@ -161,7 +161,7 @@ Focus more on internal assessments.
 
 ---
 
-# 🎯 Complete User Journey
+# Complete User Journey
 
 ```text
 ┌─────────────────────────┐
@@ -213,7 +213,7 @@ Focus more on internal assessments.
 
 ---
 
-# 🤖 Machine Learning Pipeline
+#  Machine Learning Pipeline
 
 The project follows a complete machine learning workflow:
 
@@ -245,7 +245,7 @@ Model/student_model.pkl
 
 ---
 
-# 📥 Input Features
+#  Input Features
 
 ScholarIQ uses the following student-related attributes:
 
@@ -262,29 +262,29 @@ ScholarIQ uses the following student-related attributes:
 
 ---
 
-# 📤 Prediction Output
+#  Prediction Output
 
 The application generates:
 
-### 🎯 Predicted Score
+###  Predicted Score
 
 A final academic score on a **0–100 scale**.
 
-### 🏆 Grade
+### Grade
 
 The predicted score is converted into an academic grade.
 
-### 📊 Performance Level
+###  Performance Level
 
 The application classifies the student's predicted performance.
 
-### 💡 Recommendations
+###  Recommendations
 
 The system identifies areas where the student can improve.
 
 ---
 
-# 📈 Performance Classification
+#  Performance Classification
 
 |  Score | Grade | Performance       |
 | -----: | :---: | ------------------ |
@@ -297,7 +297,7 @@ The system identifies areas where the student can improve.
 
 ---
 
-# 📊 Example
+#  Example
 
 A student enters:
 
@@ -340,7 +340,7 @@ and personalized recommendations.
 
 ---
 
-# 🏗️ System Architecture
+#  System Architecture
 
 ```text
                          ┌───────────────────┐
@@ -380,7 +380,7 @@ and personalized recommendations.
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ### Programming
 
@@ -535,7 +535,7 @@ The system can act as an **early-warning mechanism** for identifying students wh
 
 ---
 
-# 🔮 Future Enhancements
+#  Future Enhancements
 
 * [ ]  Teacher dashboard
 * [ ]  Student login system
@@ -552,7 +552,7 @@ The system can act as an **early-warning mechanism** for identifying students wh
 
 ---
 
-# 💡 Project Vision
+#  Project Vision
 
 ScholarIQ is designed around a simple principle:
 
@@ -583,7 +583,7 @@ Computer Science / Artificial Intelligence & Machine Learning
 <p>
   <a href="https://github.com/Shaik-pardi-11">GitHub</a> •
   <a href="www.linkedin.com/in/pardeen">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  <a href="https://pardiportfolio.netlify.app/">Portfolio</a>
 </p>
 
 ---
