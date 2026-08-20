@@ -31,8 +31,6 @@ Experience the complete prediction workflow directly in the browser.
 
 **No installation required.**
 
-> Replace `YOUR_STREAMLIT_URL` with your deployed Streamlit Community Cloud URL.
-
 ---
 
 # 🧠 What is ScholarIQ?
